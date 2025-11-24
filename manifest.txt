@@ -1,0 +1,24 @@
+Project Name: Unsupervised Fraud Detection with AutoEncoder
+
+Main File:
+- fraud_autoencoder.py
+
+Dataset:
+- creditcard.csv (Kaggle)
+
+Python Version:
+- Python 3.12
+
+Dependencies:
+- pyod
+- torch
+- pandas
+- numpy
+- scikit-learn
+- tqdm
+- matplotlib
+
+
+Output:
+The script prints model performance metrics including confusion matrix,
+classification report, and ROC-AUC score.
